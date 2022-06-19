@@ -1,4 +1,4 @@
-<p align="center"><img src=https://spark.apache.org/docs/latest/img/spark-logo-hd.png)></p>
+<p align="left"><img src=https://spark.apache.org/docs/latest/img/spark-logo-hd.png)></p>
 
 ### **Projeto Spark**
 
