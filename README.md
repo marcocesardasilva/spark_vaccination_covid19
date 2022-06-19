@@ -10,7 +10,8 @@ Abaixo estão os principais tópicos do projeto:
 
  - [Detalhamento do projeto proposto](https://github.com/marcocesardasilva/spark_vaccination_covid19/blob/main/projeto_final_spark.pdf)
  - [Preparação do ambiente de desenvolvimento](https://github.com/marcocesardasilva/spark_vaccination_covid19/blob/main/ambiente_de_desenvolvimento.md)
- - [Projeto Final Spark](https://github.com/marcocesardasilva/spark_vaccination_covid19)
+ - [Projeto Nível Básico - Dados de arquivo CSV](https://github.com/marcocesardasilva/spark_vaccination_covid19)
+ - [Projeto Nível Avançado - Dados de API de Elastic](https://github.com/marcocesardasilva/spark_vaccination_covid19)
 
 ------------
 <h5 align="center"> Project by Marco Cesar da Silva
