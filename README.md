@@ -1,4 +1,8 @@
-<p align="left"><img src=https://spark.apache.org/docs/latest/img/spark-logo-hd.png)></p>
+<div>
+	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="180">
+	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elastic_logo_icon_170187.png" width="180">
+	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167866.png" width="180">
+</div>
 
 ### **Projeto Spark**
 
